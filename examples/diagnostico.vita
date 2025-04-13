@@ -1,0 +1,5 @@
+module Diagnostico
+
+data:
+  limite := 95
+end
